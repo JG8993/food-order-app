@@ -1,3 +1,3 @@
 # food-order-app
 
-Project on Udemy - Unfinished
+Project on Udemy - Finished
