@@ -1,0 +1,6 @@
+1) Which components do we need?
+    - in src, add a components folder
+    - create a UI folder in components
+    - add a Layout holder to components
+    - add Meals folder
+    - add Cart folder
